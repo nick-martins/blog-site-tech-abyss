@@ -2,8 +2,8 @@
 template: index-page
 slug: /
 title: Tech Abyss
-tagline: Tech Enthusiast Blog
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+tagline: nickmar. blog
+featuredImage: /assets/team-cats.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
