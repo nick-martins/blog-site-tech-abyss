@@ -220,7 +220,7 @@ const HomePage = ({ data }) => {
             dangerouslySetInnerHTML={{ __html: html }}
           />
           <Link
-            to={frontmatter.cta.ctaLink}
+            to={ctaLink}
             className="button"
             sx={{
               variant: "variants.button",
