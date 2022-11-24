@@ -5,7 +5,7 @@
     "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
     "siteUrl": "https://blog.nickmartins.com",
     "image": "/assets/logo.png",
-    "iconimage": "/assets/favicon.ico",
+    "iconimage": "/assets/logo.png",
     "twitterUsername": ""
   },
   "ga": "G-2594NPE3P5"
