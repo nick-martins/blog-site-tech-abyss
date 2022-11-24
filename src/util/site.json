@@ -4,8 +4,8 @@
     "titleTemplate": "%s",
     "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
     "siteUrl": "https://blog.nickmartins.com",
-    "image": "https://static.wikia.nocookie.net/madeinabyss/images/6/6c/Star_Compass_Anime.png/revision/latest?cb=20200215014203",
-    "iconimage": "https://static.wikia.nocookie.net/madeinabyss/images/6/6c/Star_Compass_Anime.png/revision/latest?cb=20200215014203",
+    "image": "/assets/logo.png",
+    "iconimage": "/assets/favicon.ico",
     "twitterUsername": ""
   },
   "ga": "G-2594NPE3P5"
